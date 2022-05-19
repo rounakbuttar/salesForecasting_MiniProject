@@ -7,4 +7,4 @@ forecasting.ipynb contains the code for EDA and model deployment.
 presentation1 contains the literature review of demand forecasting using machine learning algorithms
 presentation2 contains the more important papers, the results and conclusions.
 
-the data for training and test are also provided.
+the data for training and testing are also provided.
